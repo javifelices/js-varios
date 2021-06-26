@@ -1,0 +1,22 @@
+{
+  "name": "js-varios",
+  "version": "1.0.0",
+  "description": "Ejemplos y ejercicios prácticos varios sobre arrays, asincronía, promesas, objetos....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javifelices/js-varios.git"
+  },
+  "author": "Javi Felices (@javifelices)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javifelices/js-varios/issues"
+  },
+  "homepage": "https://github.com/javifelices/js-varios#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
